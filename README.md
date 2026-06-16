@@ -1,46 +1,125 @@
+<h1 align="center">👋 Hola, soy Daniel Caballero</h1>
 
-<h2>Hola a todos yo soy Daniel</h2>
-
-### 👨🏻‍💻 &nbsp;About me
-
-💡 &nbsp;Soy Técnico Superior en DAM con experiencia sólida en el desarrollo
-backend, arquitecturas orientadas a microservicios y gestión de
-sistemas en la nube. Perfil proactivo y orientado al aprendizaje
-continuo, con experiencia real en la modernización de aplicaciones,
-integración de APIs y optimización de sistemas escalables.
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-
-### ⚙️ &nbsp;GitHub Analytics
+<h3 align="center">Backend Developer | Java & Spring Boot | Microservices | Cloud</h3>
 
 <p align="center">
-<a href="https://github.com/DaniCH20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="mailto:danieledgarch20@gmail.com">📧 Email</a> •
+  <a href="https://github.com/DaniCH20">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/daniel-edgar-caballero-hurtado-49a789306/">🔗 LinkedIn</a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+## 🚀 Sobre mí
+
+Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia en desarrollo backend, arquitecturas de microservicios y entornos cloud.
+
+Me apasiona construir aplicaciones escalables, integrar servicios y APIs, optimizar sistemas y aprender nuevas tecnologías. He trabajado en modernización de aplicaciones Java, implementación de seguridad con JWT y Keycloak, integración de servicios REST/SOAP y soluciones distribuidas con Apache Kafka.
+
+- 🔭 Interesado en Backend Development y Cloud Computing.
+- 🌱 Aprendiendo continuamente sobre arquitecturas escalables y DevOps.
+- 💡 Experiencia con microservicios, APIs y sistemas empresariales.
+- 🎯 Objetivo: crecer como Software Engineer especializado en backend.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Lenguajes
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Backend & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+### Cloud, DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Integración y Seguridad
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![SOAP](https://img.shields.io/badge/SOAP-00599C?style=for-the-badge)
+
+---
+
+## 💼 Experiencia
+
+### Inetum | Desarrollador Backend
+
+- Desarrollo y mantenimiento de aplicaciones Java con Spring Boot.
+- Modernización de proyectos existentes mejorando rendimiento y compatibilidad.
+- Integración de APIs REST y servicios SOAP.
+- Implementación de autenticación y autorización mediante Keycloak y JWT.
+- Uso de Apache Kafka para soluciones escalables basadas en eventos.
+- Trabajo con arquitecturas de microservicios.
+
+---
+
+## 📌 Proyecto Destacado
+
+### 📦 Control de Almacén
+
+Aplicación móvil para la gestión de inventario y operaciones de almacén orientada a pequeñas empresas.
+
+**Tecnologías utilizadas:**
+
+`Kotlin` `Java` `Spring Boot` `Hibernate` `MySQL` `REST API` `GitHub`
+
+**Características:**
+
+- Gestión de inventario en tiempo real.
+- Generación de albaranes.
+- Sistema de roles (usuario y administrador).
+- Backend centralizado con base de datos relacional.
+- Comunicación cliente-servidor mediante APIs REST.
+
+---
+
+## 🎓 Formación
+
+- **Desarrollo de Aplicaciones Web (DAW)**
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
+  - CIFP Elorrieta Erreka Mari LHII
+
+---
+
+## 📊 Estadísticas GitHub
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/daniel-edgar-caballero-hurtado-49a789306/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:danieledgarch20@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniCH20&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniCH20&layout=compact&theme=tokyonight"/>
 </p>
 
------
+---
 
+## 🤝 Contacto
+
+<p align="center">
+  <a href="mailto:danieledgarch20@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/daniel-edgar-caballero-hurtado-49a789306/">LinkedIn</a> |
+  <a href="https://github.com/DaniCH20">GitHub</a>
+</p>
+
+⭐ Siempre abierto a colaborar en proyectos interesantes y oportunidades relacionadas con desarrollo backend, cloud y microservicios.
